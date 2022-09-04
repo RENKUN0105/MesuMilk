@@ -1,1 +1,1 @@
-MesuMilk
+指定した人からミルクを絞れるプラグイン by Kamesuta
